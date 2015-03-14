@@ -1,0 +1,1 @@
+Data base for managing clients, patients and detists works.
